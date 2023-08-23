@@ -36,3 +36,11 @@ The program keeps track of the scores for the user and the AI. Wins are recorded
 To exit the game, simply type "exit" when prompted for your move. The program will display the final scores and a thank-you message.
 
 Have fun playing Rock Paper Scissors!
+
+## Ideas to implement
+
+- Multiplayer mode
+- Voice commands
+- Extended game modes - best of 3, 5, 10 etc..
+- AI difficulty
+- Statistics and History 
